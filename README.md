@@ -33,7 +33,7 @@ int main()
 	
 }
 ```
-![](Area)
+![](Capture2.JPG)
 
 ```
 #include <stdlib.h>
@@ -49,7 +49,7 @@ int main()
 	
 }
 ```
-![](Age)
+![](Capture3.JPG)
 
 ```
 #include <stdlib.h>
@@ -65,4 +65,4 @@ int main()
 	
 }
 ```
-![](F(x))
+![](Capture4.JPG)

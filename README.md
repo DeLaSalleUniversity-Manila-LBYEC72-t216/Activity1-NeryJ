@@ -14,7 +14,7 @@ int main()
 	system("PAUSE");
 }
 ```
-![](HelloName)
+![](Capture1.JPG)
 
 ```
 #include <stdlib.h>

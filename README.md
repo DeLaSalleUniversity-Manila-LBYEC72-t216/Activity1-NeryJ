@@ -14,7 +14,7 @@ int main()
 	system("PAUSE");
 }
 ```
-![](Capture1.jpg)
+![](Capture1)
 
 ```
 #include <stdlib.h>
@@ -33,7 +33,7 @@ int main()
 	
 }
 ```
-![](Capture2.jpg)
+![](Capture2)
 
 ```
 #include <stdlib.h>
@@ -49,7 +49,7 @@ int main()
 	
 }
 ```
-![](Capture3.jpg)
+![](Capture3)
 
 ```
 #include <stdlib.h>
@@ -65,4 +65,4 @@ int main()
 	
 }
 ```
-![](Capture4.jpg)
+![](Capture4)
